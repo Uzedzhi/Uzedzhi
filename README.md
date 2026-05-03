@@ -3,7 +3,7 @@
 
 ### ⓘ About me:
 I'm computer science and engineering student at MIPT and low-level programming enthusiast.
-I love coding in C, python, Assembly and Verilog but always eager to know more about different skill sets. Right now i'm deeply focusing on studying Hardware description languages, such as Verilog and SystemVerilog and also learn about microprocessor architecture in parallel.
+I love coding in C, Python, Assembly and Verilog but always eager to know more about different skill sets. Right now i'm deeply focusing on studying Hardware description languages, such as Verilog and SystemVerilog and also learn about microprocessor architecture in parallel.
 
 ### 🛠️ Best works:
 #### Binary tree:
@@ -11,7 +11,7 @@ I love coding in C, python, Assembly and Verilog but always eager to know more a
   - find the value by iterating through the tree and asking which variable corresponds to which value
   - find the derivative of the expression
   - optimize the tree (like change x * 0 brach to just 0, x * 1 to x, etc.)
-  - Build really silly and funny pdf file in latex format, this memes on how to differentiate function
+  - Build funny pdf file in latex format, with memes on how to differentiate function
   Check the repo "differential-tree", its worth a laugh!
 #### CPU simulator:
   Using custom data structures, i build my own assembly language, with different commands and their binary representation. Also i build compiler of it into binary and CPU simulator, which open the file and row by row, executes it. It also has an ability to 'compile' video to assembly commands, then display it in the terminal (check readme of the project).
@@ -33,5 +33,5 @@ Skills ranked from best studied to least studied from top to bottom.
 
 ### 🌱 Fun facts:
   - I love sport, especially professional swimming and hiking.
-  - I have been in 3 different caves in Russia
+  - I have been to 3 different caves in Russia
   - I know a little bit of guitar and piano
