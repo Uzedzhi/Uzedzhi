@@ -1,4 +1,4 @@
-## Hi 👋 I'm Dmitrii
+<h1 align="center"><b>Hi 👋 I'm Dmitrii</b></h1>
 
 ### ⓘ About me:
 I'm computer science and engineering student at MIPT and low-level programming enthusiast.
