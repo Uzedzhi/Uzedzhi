@@ -1,4 +1,5 @@
-<h1 align="center"><b>Hi 👋 I'm Dmitrii</b></h1>
+<img width="2125" height="550" alt="github-header-banner" src="https://github.com/user-attachments/assets/40ad26c1-5bbe-4b61-913a-5dacabc95681" />
+
 
 ### ⓘ About me:
 I'm computer science and engineering student at MIPT and low-level programming enthusiast.
